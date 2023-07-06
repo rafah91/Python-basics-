@@ -1,0 +1,4 @@
+for x in 'Mystro':
+    print x
+print ('----')
+
