@@ -1,0 +1,13 @@
+x='m'
+f=" m "
+z='''m'''
+print(x,f,z)
+print(x+x)
+print(x*5)
+
+fname = 'mahmoud'
+lname = 'ahmad'
+
+print("Hello, {}. you are {}.").format(fname,lname)
+      
+

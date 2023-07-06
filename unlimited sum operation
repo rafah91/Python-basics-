@@ -1,0 +1,9 @@
+def mysum(x,*vartuple):
+    result=x
+    for i in vartuple:
+        result+=i
+    print result
+    
+
+
+mysum(5,10,6,9,7,3,9)

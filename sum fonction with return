@@ -1,0 +1,4 @@
+def mysum(x,y):
+    return x+y
+g = mysum(4,10)
+print(g*2)

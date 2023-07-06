@@ -1,0 +1,9 @@
+def mysum(x=0,y=0):
+    
+    print(x+y)
+
+
+
+
+mysum(6,10)
+mysum(y=7,x=4)
