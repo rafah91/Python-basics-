@@ -10,4 +10,4 @@ lname = 'ahmad'
 
 print("Hello, {}. you are {}.").format(fname,lname)
       
-
+print(f"Hello my name is {fname} {lname}")
